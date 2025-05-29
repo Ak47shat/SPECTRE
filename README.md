@@ -1,6 +1,6 @@
-# SPECTRE Legal Assistant
+# SPECTER Legal Assistant
 
-SPECTRE is an AI-powered legal assistant that automates the generation of First Information Reports (FIRs) and delivers them to users via WhatsApp using Twilio. It also provides legal query handling using advanced language models.
+SPECTER is an AI-powered legal assistant that automates the generation of First Information Reports (FIRs) and delivers them to users via WhatsApp using Twilio. It also provides legal query handling using advanced language models.
 
 ## Features
 - WhatsApp-based legal assistance
@@ -17,8 +17,8 @@ SPECTRE is an AI-powered legal assistant that automates the generation of First 
 ## Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Ak47shat/SPECTRE.git
-   cd SPECTRE
+   git clone https://github.com/Ak47shat/SPECTER.git
+   cd SPECTER
    ```
 2. **Install dependencies:**
    ```bash
